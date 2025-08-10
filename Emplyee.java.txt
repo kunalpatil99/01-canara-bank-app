@@ -1,3 +1,10 @@
 class Emplyee{
+   
+   booloean status = false;
+    
+   int a = 10;
+  
+   int b = 20;
+   
 
 )
